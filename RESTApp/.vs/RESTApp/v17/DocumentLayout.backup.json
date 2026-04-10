@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\and\\source\\repos\\rest-test\\RESTApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA136153-38FD-480F-BD91-0614C96CE0D5}|RESTApp.csproj|c:\\users\\and\\source\\repos\\rest-test\\restapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA136153-38FD-480F-BD91-0614C96CE0D5}|RESTApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02F2B0F8-71D1-46FF-B3B7-20FC5840C4FE}|RESTApp.csproj|c:\\users\\and\\source\\repos\\rest-test\\restapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F2B0F8-71D1-46FF-B3B7-20FC5840C4FE}|RESTApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,9 +28,9 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\and\\source\\repos\\rest-test\\RESTApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T20:28:09.672Z",
+              "WhenOpened": "2026-04-10T16:10:52.442Z",
               "EditorCaption": ""
             }
           ]

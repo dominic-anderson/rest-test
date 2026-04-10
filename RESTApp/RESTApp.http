@@ -1,4 +1,4 @@
-@RESTApp_HostAddress = http://localhost:5277
+@RESTApp_HostAddress = http://localhost:5161
 
 GET {{RESTApp_HostAddress}}/weatherforecast/
 Accept: application/json

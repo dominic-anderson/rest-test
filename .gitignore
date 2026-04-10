@@ -427,3 +427,4 @@ FodyWeavers.xsd
 *.msm
 *.msp
 /RESTApp/.vs/ProjectEvaluation/restapp.metadata.v9.bin
+/RESTApp/.vs/RESTApp/v17/.suo

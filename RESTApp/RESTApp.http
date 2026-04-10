@@ -1,6 +1,45 @@
-@RESTApp_HostAddress = http://localhost:5161
+@RESTApp_HostAddress = https://localhost:7232
 
 GET {{RESTApp_HostAddress}}/weatherforecast/
 Accept: application/json
+
+###
+
+@postID = 3
+POST {{RESTApp_HostAddress}}/api/todoitems
+Content-Type: application/json
+
+{
+  "name": "task {{postID}}",
+  "isComplete": false,
+  "secret": "bepis"
+}
+
+###
+
+GET {{RESTApp_HostAddress}}/api/todoitems
+
+###
+
+@getID=2
+GET {{RESTApp_HostAddress}}/api/todoitems/{{getID}}
+
+###
+
+@putID=3
+PUT {{RESTApp_HostAddress}}/api/todoitems/{{putID}}
+Content-Type: application/json
+
+{
+  "id": {{putID}},
+  "name": "another task",
+  "isComplete": false,
+  "secret": "bepis room"
+}
+
+###
+
+@deleteID=1
+DELETE {{RESTApp_HostAddress}}/api/todoitems/{{deleteID}}
 
 ###

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RESTApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc2599ae9a0458588d6691cb81ee14f040cdc043")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b55679577849983f70aa16804aaa674b5ee3ab5")]
 [assembly: System.Reflection.AssemblyProductAttribute("RESTApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RESTApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
